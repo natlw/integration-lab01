@@ -19,3 +19,7 @@
 
 python manage.py runserver
 
+
+
+\*\*Dodane przy drugiej gałęzi\*\*
+

@@ -1,25 +1,16 @@
-\# Laboratorium 01 - Integracja systemów informatycznych
+# Laboratorium 01 - Integracja systemów informatycznych
 
+**Cel laboratorium: Opanowanie systemu kontroli wersji Git, platformy GitHub oraz przygotowanie lokalnego środowiska programistycznego dla frameworka Django. Zmiana dla zadania 5.**
 
+## Wymagania:
 
-\*\*Cel laboratorium: Opanowanie systemu kontroli wersji Git, platformy GitHub oraz przygotowanie lokalnego środowiska programistycznego dla frameworka Django. Zmiana dla zadania 5.\*\*
+- Utworzenie publicznego repozytorium na GitHub z zainicjalizowanym projektem w wybranej technologii.
+- Obecność co najmniej dwóch dodatkowych, nieusuniętych gałęzi w repozytorium.
+- Wykazanie się poprawną i czytelną historią commitów.
+- Prawidłowo skonfigurowany plik .gitignore i GitHub Actions.
 
-
-
-\## Wymagania:
-
-* Utworzenie publicznego repozytorium na GitHub z zainicjalizowanym projektem w wybranej technologii.
-* Obecność co najmniej dwóch dodatkowych, nieusuniętych gałęzi w repozytorium.
-* Wykazanie się poprawną i czytelną historią commitów.
-* Prawidłowo skonfigurowany plik .gitignore i GitHub Actions.
-
-
-
-\## Uruchomienie projektu
+## Uruchomienie projektu
 
 python manage.py runserver
 
-
-
-\*\*Dodane przy drugiej gałęzi\*\*
-
+**Dodane przy drugiej gałęzi**

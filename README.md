@@ -2,7 +2,7 @@
 
 
 
-\*\*Cel laboratorium: Opanowanie systemu kontroli wersji Git, platformy GitHub oraz przygotowanie lokalnego środowiska programistycznego dla frameworka Django. Inna zmiana dla zad 5.\*\*
+\*\*Cel laboratorium: Opanowanie systemu kontroli wersji Git, platformy GitHub oraz przygotowanie lokalnego środowiska programistycznego dla frameworka Django. Zmiana dla zadania 5.\*\*
 
 
 
